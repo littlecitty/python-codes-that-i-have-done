@@ -1,0 +1,119 @@
+## 🟢 **Beginner (1–30)**
+
+Focus: variables, input/output, conditions, loops, and simple logic
+
+1. Print "Hello, World!"
+2. Take user input and print it.
+3. Add two numbers.
+4. Swap two variables.
+5. Check if a number is even or odd.
+6. Find the largest of three numbers.
+7. Check if a number is prime.
+8. Print all prime numbers in a range.
+9. Print multiplication table of a number.
+10. Calculate the factorial of a number.
+11. Generate Fibonacci sequence.
+12. Check for Armstrong number.
+13. Check for palindrome number.
+14. Print reverse of a number.
+15. Sum of digits of a number.
+16. Check if a year is leap year.
+17. Print ASCII value of a character.
+18. Convert Celsius to Fahrenheit.
+19. Find the area of a circle.
+20. Count vowels in a string.
+21. Reverse a string without slicing.
+22. Check if a string is palindrome.
+23. Replace a word in a sentence.
+24. Remove punctuation from string.
+25. Count frequency of characters.
+26. Find the length of a list.
+27. Find sum of elements in list.
+28. Find the max and min in list.
+29. Check if an element exists in list.
+30. Remove duplicates from a list.
+
+---
+
+## 🟡 **Intermediate (31–70)**
+
+Focus: functions, lists, dictionaries, file I/O, error handling, OOP basics
+
+31. Write a function to check prime.
+32. Create a calculator using functions.
+33. Create a function to return factorial.
+34. Recursive Fibonacci function.
+35. Sort a list using bubble sort.
+36. Find common elements in two lists.
+37. Merge two dictionaries.
+38. Count frequency of words in sentence.
+39. Print a dictionary sorted by value.
+40. Find second largest number in list.
+41. Find all unique characters in string.
+42. Find pairs with sum in a list.
+43. Check if two strings are anagrams.
+44. Find most frequent character in string.
+45. Read a file and count lines.
+46. Write to a file.
+47. Append to a file.
+48. Copy content of one file to another.
+49. Rename a file using `os` module.
+50. Exception handling: divide by zero.
+51. Handle file not found error.
+52. Create a class for student and display details.
+53. Create a class with constructor and destructor.
+54. Create a class with method to calculate area of rectangle.
+55. Inheritance example with animal → dog.
+56. Override a method in child class.
+57. Use `super()` in inheritance.
+58. Create and raise custom exception.
+59. Use `*args` and `**kwargs` in function.
+60. Create a lambda function.
+61. Use `map()` with lambda.
+62. Use `filter()` to filter even numbers.
+63. Use `reduce()` to calculate product of list.
+64. Use `zip()` to combine lists.
+65. Use list comprehension to square numbers.
+66. Dictionary comprehension to swap keys and values.
+67. Write a generator for Fibonacci numbers.
+68. Use `enumerate()` in loop.
+69. Find all duplicates in a list.
+70. Check if a string is a valid identifier.
+
+---
+
+## 🔴 **Advanced (71–100)**
+
+Focus: recursion, decorators, algorithms, regular expressions, multithreading
+
+71. Implement binary search.
+72. Implement linear search.
+73. Implement selection sort.
+74. Implement insertion sort.
+75. Implement quick sort.
+76. Create a decorator to log function time.
+77. Create a memoization decorator.
+78. Use `re` to extract emails from text.
+79. Use `re` to validate a phone number.
+80. Use `re` to split text on punctuation.
+81. Use threading to run two functions simultaneously.
+82. Use multiprocessing to compute squares of list.
+83. Producer-consumer example with threading.
+84. Implement stack using list.
+85. Implement queue using deque.
+86. Implement a priority queue.
+87. Convert infix to postfix expression.
+88. Evaluate a postfix expression.
+89. Detect palindrome using recursion.
+90. Solve Tower of Hanoi problem.
+91. Nth Fibonacci using memoization.
+92. Read JSON file and parse it.
+93. Create and write JSON to file.
+94. Web scraping using `requests` and `BeautifulSoup`.
+95. Send email using SMTP in Python.
+96. Build a simple CLI calculator.
+97. Create a simple ToDo CLI app with file persistence.
+98. Create a mini login system with password hashing.
+99. Build a small chatbot using basic rules.
+100. Build a text-based snake or tic-tac-toe game.
+
